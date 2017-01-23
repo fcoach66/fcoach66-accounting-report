@@ -63,8 +63,8 @@ Contributors
 Maintainer
 ----------
 
-.. image:: https://opensynergy-indonesia.com/logo.png
-   :alt: OpenSynergy Indonesia
-   :target: https://opensynergy-indonesia.com
+.. image:: /logo.png
+   :alt: fcoach66
+   :target: 
 
-This module is maintained by the OpenSynergy Indonesia
+This module is maintained by the fcoach66

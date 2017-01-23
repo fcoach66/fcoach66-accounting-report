@@ -3,10 +3,10 @@
 {
     'name': 'Liability account',
     'version': '8.0.1.0.0',
-    'author': 'OpenSynergy Indonesia',
+    'author': 'fcoach66',
     'category': 'Accounting',
     'summary': 'Liability view helper',
-    'website': 'https://opensynergy-indonesia.com',
+    'website': '',
     'depends': [
         'fcoach66_accounting_report_configuration_page',
         ],
