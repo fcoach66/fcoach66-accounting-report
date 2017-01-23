@@ -2,11 +2,11 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-=============================
-Trial Balance - Aeroo Report
-=============================
+======================================
+Liability Accounts Configurator Helper
+======================================
 
-This module add trial balance report created using aeroo report
+Helper module to configure liability accounts
 
 Installation
 ============
@@ -17,7 +17,7 @@ To install this module, you need to:
 2.  Add the path to this repository in your configuration (addons-path)
 3.  Update the module list
 4.  Go to menu *Setting -> Modules -> Local Modules*
-5.  Search For *Trial - Aeroo Report*
+5.  Search For *Liability Account Helper Configurator*
 6.  Install the module
 
 Configuration
@@ -30,13 +30,14 @@ Usage
 
 To use this module, you need to:
 
-1. Go to *Accounting -> Reporting -> Trial Balance*
+1. Go to *Setting -> Company -> Companies*
+2. Go to tab *Acc. Report Config*
+3. Select liability accounts
 
 
 Known issues / Roadmap
 ======================
 
-* No foreign currency
 
 Bug Tracker
 ===========
@@ -47,7 +48,7 @@ check there if your issue has already been reported. If you spotted it first,
 help us smashing it by providing a detailed and welcomed `feedback
 <https://github.com/open-synergy/
 fcoach66-accounting-report/issues/new?body=module:%20
-fcoach66_trial_balance_aeroo_report%0Aversion:%20
+fcoach66_liability_account%0Aversion:%20
 8.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Credits
